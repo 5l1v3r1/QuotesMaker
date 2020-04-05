@@ -1,5 +1,5 @@
 <?php
-$file = "buah.txt";
+$file = "quotes.txt";
 // Convert the text fle into array and get text of each line in each array index
 $file_arr = file($file);
 // Total number of linesin file
