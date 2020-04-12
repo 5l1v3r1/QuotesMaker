@@ -20,8 +20,6 @@ echo "\n\n";
 echo "----- Generate Quotes Maker -----\n";
 echo "$rand_text\n";
 echo "---------------------------------\n";
-echo "Email : uklteam22@gmail.com\n";
-echo "Facebook : https://www.facebook.com/groups/localheart/\n";
-echo "Youtube : https://youtube.com/localheart\n";
+echo "More Info : https://linktr.ee/doko1554\n";
 
 ?>
