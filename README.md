@@ -11,9 +11,7 @@
 - Recode? Ijin Dulu Mhank
 
 # Note
-- Email : uklteam22@gmail.com
-- Facebook : https://www.facebook.com/groups/localheart/
-- Youtube : https://youtube.com/localheart
+- https://linktr.ee/doko1554
 
 # ScreenShot
 ![Capture](https://user-images.githubusercontent.com/33697576/78510550-1b14de00-77c0-11ea-9c0a-996102896075.PNG)
