@@ -1,17 +1,15 @@
 # Install
-- apt update && apt upgrade 
-- apt install php php-dev php-cli php-curl git nano
-- git clone https://github.com/kyo1337/QuotesMaker
-- cd QuotesMaker
-- php quotesmasker.php
+$ apt update && apt upgrade 
+$ apt install python git
+$ pip install requests
+$ pip install bs4
+$ git clone https://github.com/kyo1337/QuotesMaker
+$ cd QuotesMaker
+$ python quotes.py
 
 # Petunjuk Pengguna
-- Edit File quotes.txt, Dan Masukkan Quotes Sesuai Keinginan Kalian
-- Jangan Lupa Save Filenya Jika Sudah Selesai Edit
-- Recode? Ijin Dulu Mhank
+- Script ini otomatis random karena menggunakan metode crawling di python
+- Recode? Hargai karya orang boss
 
 # Note
 - https://linktr.ee/doko1554
-
-# ScreenShot
-![Capture](https://user-images.githubusercontent.com/33697576/78510550-1b14de00-77c0-11ea-9c0a-996102896075.PNG)
